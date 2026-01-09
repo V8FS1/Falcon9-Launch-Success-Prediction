@@ -127,7 +127,8 @@ git clone https://github.com/your-username/spacex-prediction.git
 ### 2. Install Dependencies
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn requests
+pip install requests pandas numpy matplotlib seaborn scikit-learn prettytable
+
 ```
 
 ### 3. Run the Notebook
