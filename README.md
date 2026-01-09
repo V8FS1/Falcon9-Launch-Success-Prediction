@@ -135,6 +135,11 @@ pip install requests pandas numpy matplotlib seaborn scikit-learn prettytable
 
 Open `SpaceX_Machine_Learning_Prediction.ipynb` in **Jupyter Notebook** or **Google Colab** and run all cells to reproduce the results.
 
+
+## Author
+Faisal Salama
+
+
 ---
 
 
